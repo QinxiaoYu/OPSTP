@@ -1,5 +1,5 @@
 Instance,|V|,Tmax,Best Obj,Information of the best route,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,total service time,total travel time,number of visted customer,route,service time of each vertex in the route (the first one and last  one are depots)
+,,,,total service time,total travel time,number of visted customer,route,service time of each vertex in the route (the first one and last  one are depots),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 kroA100,25,14212,509.18,9449,4763,11,0-5-18-3-15-17-23-9-20-16-14-10-0,0,987.51,540.59,1053.49,1288.85,885.8,1006.19,1335.82,447.65,602.92,793.23,506.95,0,,,,,,,,,,,,,,,,,
 kroA100,50,14617,656.81,7720,6897,15,0-39-1-43-49-38-36-4-47-13-2-42-45-33-6-27-0,0,636.44,561.77,309.11,639.4,545.9,573.74,507.61,569.68,689.4,336.42,522.38,587,176.77,541.98,522.38,0,,,,,,,,,,,,,
 kroA100,75,14702,731.33,8534,6168,17,0-27-66-41-30-55-3-64-65-69-15-17-23-35-58-73-9-5-0,0,482.43,675.11,571.18,482.43,252.88,585.68,442.62,141.73,527.8,687.38,442.62,595.43,527.8,313.22,651.33,662.18,492.19,0,,,,,,,,,,,
